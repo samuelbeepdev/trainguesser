@@ -1,23 +1,9 @@
 body{
 	font-family: FreeSans, sans-serif;
-	background-color:#565a5c;
-	text-align:center;
-}
-
-h1 {
-	color:#00a1de;
-}
-
-h2 {
-	color:#009b3a;
-}
-
-h3 {
-	color:#f9e300;
-}
-
-h4 {
-	color:#f9461c;
+	background-color: black;
+	color: #f9461c;
+	padding: 20px;
+	font-weight: bold;
 }
 
 input {
@@ -46,11 +32,17 @@ button {
 }
 
 #sign {
-	background-color: grey;
-	width: 50%;
+	background-color: #565a5c;
+	width: 100%;
 	padding-top: 4px;
 	padding-bottom: 4px;
 	font-size: large;
 	color: white;
 	margin: auto;
+	text-align: center;
+}
+
+#logomark {
+	color: whitesmoke;
+	font-size: 30px;
 }

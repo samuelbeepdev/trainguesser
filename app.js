@@ -2,7 +2,7 @@ new Vue({
 	el: '#app',
 	data () {
 		return {
-			info: null,
+			info: "",
 			lives: 5,
 			result: ""
 		}
